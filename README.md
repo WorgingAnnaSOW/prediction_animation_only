@@ -1,6 +1,6 @@
 # prediction_animation_only
 
-This animation shows the pourcentage of bikes by different counters in Montpellier.
+This animation shows the pourcentage of bikes (counted)  by different counters in Montpellier.
 
 
 
